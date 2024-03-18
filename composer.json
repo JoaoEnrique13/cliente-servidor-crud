@@ -9,11 +9,12 @@
         {
             "name": "faustinopsy",
             "email": "rodrigohipnose@gmail.com"
+        },
+        {
+            "name": "João Enrique Barbosa Santos Alves",
+            "email": "jebsantosalves@gmail.com"
         }
     ],
     "require": {
-        "php-pm/php-pm": "^2.1",
-        "php-pm/httpkernel-adapter": "^2.3",
-        "react/http": "^1.9"
     }
 }
