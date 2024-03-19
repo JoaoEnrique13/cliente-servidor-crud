@@ -4,7 +4,7 @@ namespace App\Repository;
 use App\Database\Database;
 use App\Model\Cliente;
 use PDO;
-
+//teste
 class ClienteRepository{
     private $conn;
 
